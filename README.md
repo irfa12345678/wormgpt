@@ -5,7 +5,7 @@
   <br>
   <img src="https://g.top4top.io/p_35568o9i71.png" alt="Multi-AI Bot" width="200">
   <br>
-  🤖 MULTI-AI TELEGRAM BOT
+ WORM GPT 👿😈🥶 TELEGRAM BOT
   <br>
 </h1>
 
@@ -40,9 +40,9 @@
 |----------|----------|
 | **🤖 AI Models** | 25+ Latest AI Models |
 | **🌐 Multi-Language** | Indonesian & English Support |
-| **💬 Smart Chat** | Coding, Writing, Analysis |
+| **💬 Smart Chat** | tools ddos, Writing, Analysis |
 | **🎨 Creative** | Content, Design, AI Art |
-| **📊 Technical** | Data Analysis, IT Solutions |
+| **📊 Technical** | malwer IT Solutions |
 | **⚡ Performance** | Fast Response, SQLite DB |
 
 </div>

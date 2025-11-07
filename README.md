@@ -96,8 +96,10 @@
 🛠 Installation Steps
 1. Clone Repository
 bash
-git clone https://github.com/yourusername/multi-ai-bot.git
-cd multi-ai-bot
+git clone https://github.com/irfa12345678/wormgpt/
+cd wormgpt
+pip install -r requirements.txt
+python wormgpt.py
 2. Setup Virtual Environment
 bash
 # Create virtual environment
@@ -130,9 +132,10 @@ markdown
 ### 1. 📥 Download & Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourrepo/multi-ai-bot.git
-cd multi-ai-bot
-
+git clone https://github.com/irfa12345678/wormgpt/ 
+cd wormgpt
+pip install -r requirements.txt
+python worm.py
 # Virtual environment
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -155,10 +158,10 @@ OPENROUTER_API_KEY = "sk-or-v1-..."  # Optional
 4. 🚀 Run Bot
 bash
 # Direct run
-python bot.py
+python worm.py
 
 # Background (Linux/Mac)
-nohup python bot.py &
+nohup python worm.py &
 
 # With PM2
 pm2 start bot.py --name "ai-bot"
